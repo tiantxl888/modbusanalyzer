@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "url": "https://github.com/tiantxl888/modbusanalyzer/releases/download/v0.01/modbus_analyzer.exe",
+  "changelog": "首次发布，支持基本的 Modbus 报文分析。",
+  "mandatory": false
+}
