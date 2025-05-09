@@ -1,0 +1,6 @@
+PyQt5>=5.15.0
+pandas>=1.0.0
+numpy>=1.18.0
+pyserial>=3.4
+openpyxl>=3.0.0
+pyqtgraph>=0.12.0
